@@ -1,0 +1,12 @@
+/Users/dkpgrupo/Projects/Projeto/Projeto/bin/Debug/netstandard2.0/Projeto.deps.json
+/Users/dkpgrupo/Projects/Projeto/Projeto/bin/Debug/netstandard2.0/Projeto.dll
+/Users/dkpgrupo/Projects/Projeto/Projeto/bin/Debug/netstandard2.0/Projeto.pdb
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/Projeto.csprojAssemblyReference.cache
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/Projeto.csproj.CoreCompileInputs.cache
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/Projeto.AssemblyInfoInputs.cache
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/Projeto.AssemblyInfo.cs
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/Projeto.dll
+/Users/dkpgrupo/Projects/Projeto/Projeto/obj/Debug/netstandard2.0/Projeto.pdb
